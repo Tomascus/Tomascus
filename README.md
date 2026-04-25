@@ -34,8 +34,8 @@ What makes me a bit different — I'm both a **programmer and a technical artist
 ```
 🎮  Currently studying:   Computing in Games Development @ DkIT
 🚀  Biggest project:      Full-scale UE5 game — 1 year in production
-⚙️  Focused on:           Gameplay Systems · Physics · AI Behaviour · Animations
-🌱  Currently learning:   [ Procedural generation / Multiplayer netcode ]
+⚙️  Focused on:           Gameplay Systems, Physics, AI Behaviour, Animations
+🌱  Currently learning:   Procedural generation & Multiplayer netcode
 🎯  Goal:                 Junior Gameplay Programmer or Technical Artist role
 🎬  Beyond code:          Level design, cinematics, and world-building
 ```
