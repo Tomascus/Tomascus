@@ -13,6 +13,7 @@
 
 <br/>
 
+
 <a href="mailto:ts.tomas.szabo@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
@@ -71,6 +72,12 @@ What makes me a bit different — I'm both a **programmer and a technical artist
 
 ---
 
+<div align="center">
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=e0utmsgzgxma8kv4pgbn09mso&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+</div>
+
 ## 🎮 Featured Projects
 
 ---
@@ -81,9 +88,21 @@ What makes me a bit different — I'm both a **programmer and a technical artist
 
 > **[ GIF ]**
 >
-> 🎬 [Watch Trailer](YOUR-YOUTUBE-LINK) &nbsp;|&nbsp; 📂 [Diversion Repo](YOUR-DIVERSION-LINK)
+> 🎬 [Watch Trailer](LINK) &nbsp;|&nbsp; 
 
-A first-person medieval tavern management game built in Unreal Engine 5 (Blueprints). As AI developer and programmer, designed and implemented the full NPC task system using State Trees, Smart Objects and NavMesh, a delegate-driven event system with 21+ handcrafted daily events dynamically altering customer flow and day length, QTE-based serving minigames, and a stamina system with visual feedback. Built and overhauled all in-game UI using UMG including animated event screens, NPC patience indicators, and a modular comic book cutscene system with save-integrated replay prevention. Also authored intro and ending cinematics in Sequencer, architected a persistent save/load system, and implemented a narrative ending manager handling three distinct endings driven by reputation progression, combat outcomes, and world exploration.
+A tavern management game built over a full year in UE5 — from concept to final build. Managed using Diversion and Scrumwise across weekly sprints.
+
+AI & Gameplay
+
+🧠 NPC Task System — State Trees, Smart Objects & NavMesh enabling NPCs to navigate the tavern and perform contextual role-based tasks at modular workstations
+🌙 Day/Night Cycle — Delegate-driven event system with 21+ handcrafted events affecting customer flow and pacing
+🍺 Serving Mechanics — QTE-based interactions with stamina system and visual feedback
+
+UI & Presentation
+
+🖥️ Full UMG Overhaul — Animated event screens, billboarding NPC patience indicators with fill-based timers
+📖 Cutscene System — Modular comic book format with save-integrated replay prevention
+🎬 Cinematics — Intro and ending sequences authored in Sequencer
 
 ![Unreal Engine 5](https://img.shields.io/badge/Unreal%20Engine%205-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -96,9 +115,19 @@ A first-person medieval tavern management game built in Unreal Engine 5 (Bluepri
 ### 🌑 Darkspire — Unity
 >**[ GIF ]**
 >
-> 🎬 [Watch Trailer](YOUR-LINK)
+> 🎬 [Watch Trailer](LINK)
 
-A 3D dark fantasy dungeon crawler built in Unity. As team lead and combat programmer, developed the full combat system — stamina-gated attacks, combo-driven animation variety with directional mouse steering, accurate weapon hitboxes and hit registration, and invulnerability-framed dodge rolls. Built enemy AI with randomised area patrol, range-based detection and chase logic, attack state transitions, and attribute variation across speed, health, damage and detection range. Also implemented a modular dialogue system with branching player choices, a scriptable object inventory (potions, lore items acquired from enemies and chests), and an XP-based levelling system letting players increase damage, HP and stamina — encouraging exploration before the boss fight.
+A 3D dark fantasy dungeon crawler — team of four, full production cycle, with narrative, progression systems, and enemy AI.
+
+Combat & Movement
+
+⚔️ Combat System — Stamina-gated attacks, combo-driven animation variety with directional mouse steering, accurate weapon hitboxes and hit registration
+🎯 Dodge & Movement — Invulnerability-framed rolls, controller and M&K support with dampened rotation for fluid feel
+
+AI & Systems
+
+🧠 Enemy AI — Randomised area patrol, range-based detection, chase and attack state transitions with attribute variation across speed, health, damage and detection range
+📈 Levelling System — XP from kills feeds into stat allocation (damage, HP, stamina), rewarding exploration before the boss
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tomascus/Darkspire)
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
