@@ -87,21 +87,22 @@ What makes me a bit different — I'm both a **programmer and a technical artist
 
 > <img width="800" height="448" alt="AleAmbitionGIF" src="https://github.com/user-attachments/assets/0f74a4e8-bec8-4a97-a4c1-8ecdc954c0ac" />
 >
-> 🎬 [Watch Trailer](LINK) &nbsp;|&nbsp; 
+> 🎬 [Watch Trailer](https://www.youtube.com/watch?v=WP1BBMCuzXU)
+
 
 A tavern management game built over a full year in UE5 — from concept to final build. Managed using Diversion and Scrumwise across weekly sprints.
 
 AI & Gameplay
 
-🧠 NPC Task System — State Trees, Smart Objects & NavMesh enabling NPCs to navigate the tavern and perform contextual role-based tasks at modular workstations
-🌙 Day/Night Cycle — Delegate-driven event system with 21+ handcrafted events affecting customer flow and pacing
-🍺 Serving Mechanics — QTE-based interactions with stamina system and visual feedback
+NPC Task System — State Trees, Smart Objects & NavMesh enabling NPCs to navigate the tavern and perform contextual role-based tasks at modular workstations
+Day/Night Cycle — Delegate-driven event system with 21+ handcrafted events affecting customer flow and pacing
+Serving Mechanics — QTE-based interactions with stamina system and visual feedback
 
 UI & Presentation
 
-🖥️ Full UMG Overhaul — Animated event screens, billboarding NPC patience indicators with fill-based timers
-📖 Cutscene System — Modular comic book format with save-integrated replay prevention
-🎬 Cinematics — Intro and ending sequences authored in Sequencer
+Full UMG Overhaul — Animated event screens, billboarding NPC patience indicators with fill-based timers
+Cutscene System — Modular comic book format with save-integrated replay prevention
+Cinematics — Intro and ending sequences authored in Sequencer
 
 ![Unreal Engine 5](https://img.shields.io/badge/Unreal%20Engine%205-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -114,19 +115,22 @@ UI & Presentation
 ### 🌑 Darkspire — Unity
 ><img width="600" height="341" alt="DarkspireGIF" src="https://github.com/user-attachments/assets/314a8bda-ec03-4f60-bfb8-71ded34be4a0" />
 >
-> 🎬 [Watch Trailer](LINK)
+> 🎬 [Watch Trailer](https://youtu.be/a0iik89j2Tc)
+
+
+
 
 A 3D dark fantasy dungeon crawler — team of four, full production cycle, with narrative, progression systems, and enemy AI.
 
 Combat & Movement
 
-⚔️ Combat System — Stamina-gated attacks, combo-driven animation variety with directional mouse steering, accurate weapon hitboxes and hit registration
-🎯 Dodge & Movement — Invulnerability-framed rolls, controller and M&K support with dampened rotation for fluid feel
+Combat System — Stamina-gated attacks, combo-driven animation variety with directional mouse steering, accurate weapon hitboxes and hit registration
+Dodge & Movement — Invulnerability-framed rolls, controller and M&K support with dampened rotation for fluid feel
 
 AI & Systems
 
-🧠 Enemy AI — Randomised area patrol, range-based detection, chase and attack state transitions with attribute variation across speed, health, damage and detection range
-📈 Levelling System — XP from kills feeds into stat allocation (damage, HP, stamina), rewarding exploration before the boss
+Enemy AI — Randomised area patrol, range-based detection, chase and attack state transitions with attribute variation across speed, health, damage and detection range
+Levelling System — XP from kills feeds into stat allocation (damage, HP, stamina), rewarding exploration before the boss
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tomascus/Darkspire)
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
@@ -139,7 +143,7 @@ AI & Systems
 > <img width="600" height="336" alt="TideKeeperGIF" src="https://github.com/user-attachments/assets/012a2290-5e23-4397-b715-abffcc2a8b6f" />
 
 
-A 3D top-down eco-aware game built in Unity with C#. Collect rubbish around nature environment, guided by visual storytelling and progress bars, with a goal of cleaning all trash. Separate them into specific bins. After doing so steer a ship and clean oil spill on the water. Be the change !
+A 3D top-down eco-aware game built in Unity with C#. Collect rubbish around nature environment, guided by visual storytelling and progress bars, with a goal of cleaning all trash. Separate them into specific bins. After doing so steer a ship and clean oil spill on the water. Be the change!
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tomascus/Tidekeeper)
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
@@ -147,7 +151,7 @@ A 3D top-down eco-aware game built in Unity with C#. Collect rubbish around natu
 
 ---
 
-### Tank Shot
+### 🎯 Tank Shot
 > <img width="600" height="450" alt="tankShotGIF" src="https://github.com/user-attachments/assets/5783d73c-306d-49a8-90ae-75fdc13d2363" />
 
 
