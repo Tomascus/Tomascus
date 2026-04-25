@@ -85,7 +85,7 @@ What makes me a bit different — I'm both a **programmer and a technical artist
 > *Full production game · Year-long development · Team of [ 4 ]*
 
 
-> **[ GIF ]**
+> <img width="800" height="448" alt="AleAmbitionGIF" src="https://github.com/user-attachments/assets/0f74a4e8-bec8-4a97-a4c1-8ecdc954c0ac" />
 >
 > 🎬 [Watch Trailer](LINK) &nbsp;|&nbsp; 
 
@@ -112,7 +112,7 @@ UI & Presentation
 ---
 
 ### 🌑 Darkspire — Unity
->**[ GIF ]**
+><img width="600" height="341" alt="DarkspireGIF" src="https://github.com/user-attachments/assets/314a8bda-ec03-4f60-bfb8-71ded34be4a0" />
 >
 > 🎬 [Watch Trailer](LINK)
 
@@ -136,7 +136,8 @@ AI & Systems
 ---
 
 ### 🌊 Tidekeeper
-> **[ GIF ]**
+> <img width="600" height="336" alt="TideKeeperGIF" src="https://github.com/user-attachments/assets/012a2290-5e23-4397-b715-abffcc2a8b6f" />
+
 
 A 3D top-down eco-aware game built in Unity with C#. Collect rubbish around nature environment, guided by visual storytelling and progress bars, with a goal of cleaning all trash. Separate them into specific bins. After doing so steer a ship and clean oil spill on the water. Be the change !
 
@@ -147,7 +148,9 @@ A 3D top-down eco-aware game built in Unity with C#. Collect rubbish around natu
 ---
 
 ### Tank Shot
-> **[ GIF ]**
+> <img width="600" height="450" alt="tankShotGIF" src="https://github.com/user-attachments/assets/5783d73c-306d-49a8-90ae-75fdc13d2363" />
+
+
 
 A C++/SFML multiplayer tank game built with a TCP client-server architecture supporting up to 4 players over LAN. Designed a server-authoritative model with a custom packet protocol, lobby system, round management, and synchronised pickups with server-side validation to prevent invalid client actions. Implemented client-side interpolation and state synchronisation for smooth remote player movement across all clients.
 
@@ -157,7 +160,8 @@ A C++/SFML multiplayer tank game built with a TCP client-server architecture sup
 ---
 
 ### 🎲 Console RPG
-> **[ GIF ]**
+> <img width="800" height="450" alt="ConsoleRPGGIF" src="https://github.com/user-attachments/assets/6831e3c9-6c2b-4c65-bed8-aeab63107dc6" />
+
 
 A C# console dungeon RPG built as an Object-Oriented Design project, focused on implementing core software design patterns. Architected using Builder (DungeonBuilder/Director for procedural room construction), Visitor (separate attack and defence visitor logic per entity), and Decorator (modular item stat layering). Features a full combat system, enemy AI, weapon/item hierarchy, and player progression.
 
@@ -167,7 +171,8 @@ A C# console dungeon RPG built as an Object-Oriented Design project, focused on 
 ---
 
 ### ⚔️ Hidden Dungeon
-> **[ GIF ]**
+> <img width="600" height="331" alt="HiddenDungeonGIF" src="https://github.com/user-attachments/assets/6b9074c6-e414-4f11-b68d-09148634f1b3" />
+
 
 A 2D top-down dungeon crawler built in Unity with C#. Players navigate room-locked dungeons, defeating enemy ambushes to progress — rooms seal on entry until all enemies are cleared. Keys dropped by elite enemies unlock boss-guarded doors, with elites carrying adjusted stats for greater challenge. Features mouse-aim ranged combat, custom ShaderLab/HLSL visual effects, and pixel art assets.
 
@@ -179,7 +184,8 @@ A 2D top-down dungeon crawler built in Unity with C#. Players navigate room-lock
 ---
 
 ### 🐛 Bug's Life — C++ Simulation
-> **[ GIF ]**
+> <img width="600" height="601" alt="BugsLifeGIF" src="https://github.com/user-attachments/assets/4d8fb650-856f-4d04-946f-80fcc3fbfe55" />
+
 
 A **C++ simulation** modelling different bug behaviour variants on a board — bugs fight each other with unique logic, and the player can take control of a super bug. Focused on object-oriented design, polymorphism, and behavioural AI patterns.
 
