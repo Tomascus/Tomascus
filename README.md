@@ -1,88 +1,198 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/853376f2-9507-4776-874f-7506cc75e62f" width="100%" alt="Banner" />
-</p>
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Tomas Szabo</h1>
-<h3 align="center">Computing in Games Development Student | Programmer & Technical Artist</h3>
+<img src="https://github.com/user-attachments/assets/853376f2-9507-4776-874f-7506cc75e62f" width="100%" alt="Banner" />
 
-<p align="center">
-  <a href="mailto:ts.tomas.szabo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="[Your LinkedIn URL]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
+<br/>
+
+<h1>Hi 👋, I'm Tomas Szabo</h1>
+<h3>Gameplay Programmer & Technical Artist</h3>
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Computing+in+Games+Development+Student;Gameplay+Programmer+%7C+Technical+Artist;Unreal+Engine+5+%7C+Unity+%7C+C%2B%2B+%7C+C%23;Building+Worlds%2C+One+System+at+a+Time)](https://git.io/typing-svg)
+
+<br/>
+
+<a href="mailto:ts.tomas.szabo@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/tomas-szabo/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
-### About Me
-I'm a university student passionate about bridging the gap between core programming and design. I write code for in-game interfaces, game mechanics, or AI logic for NPC, I love bringing interactive worlds to life.
+## 👾 About Me
 
-- Currently studying **Computing in Games Development**.
-- Focusing on **Gameplay Mechanics, Game Physics, and Systems Architecture**.
-- Looking to collaborate on **Game Jams, Open Source Game Tools, and Indie Projects**.
-- **Fun Fact:** I don't just code, I also love working on level design and cinematics!
+Hey! I'm **Tomas** — a **Games Development student** who lives at the intersection of code and creativity. I build the systems that make games *feel* good: responsive player controllers, physics-based mechanics, NPC behaviour, and UX, Cinematics that sell the world.
+
+What makes me a bit different — I'm both a **programmer and a technical artist**. I apply strong UX knowledge, make compelling animations, composite the cinematic, and ship the build. From gameplay logic to level design, I care about the full picture.
+
+```
+🎮  Currently studying:   Computing in Games Development @ DkIT
+🚀  Biggest project:      Full-scale UE5 game — 1 year in production
+⚙️  Focused on:           Gameplay Systems · Physics · AI Behaviour · Animations
+🌱  Currently learning:   [ e.g. Procedural generation / Multiplayer netcode ]
+🎯  Goal:                 Junior Gameplay Programmer or Technical Artist role
+🎬  Beyond code:          Level design, cinematics, and world-building
+```
 
 ---
 
-### Technical Arsenal
+## 🛠️ Tech Stack
 
-**Game Engines & Frameworks**
-<p>
-  <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128.svg?style=for-the-badge&logo=Unreal-Engine&logoColor=white" alt="Unreal" />
-  <img src="https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=black" alt="Unity" />
-</p>
+**Game Engines**
+
+[![My Skills](https://skillicons.dev/icons?i=unreal,unity)](https://skillicons.dev)
 
 **Languages**
-<p>
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-</p>
 
-**Digital Art & 3D Modeling**
-<p>
-  <img src="https://img.shields.io/badge/Autodesk%20Maya-37A5CC.svg?style=for-the-badge&logo=Autodesk-Maya&logoColor=white" alt="Maya" />
-  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
-  <img src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E" alt="Aseprite" />
-  <img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B" alt="Krita" />
-  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Photoshop" />
-  <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" alt="Lightroom" />
-</p>
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,java,js)](https://skillicons.dev)
 
-**Video, Design & Web**
-<p>
-  <img src="https://img.shields.io/badge/DaVinci_Resolve-CB6051?style=for-the-badge&logo=davinciresolve&logoColor=white" alt="DaVinci Resolve" />
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
+**3D, Art & Design**
 
-**Data, Math & Project Management**
-<p>
-  <img src="https://img.shields.io/badge/Mathematica-DD1100?style=for-the-badge&logo=wolframmathematica&logoColor=white" alt="Mathematica" />
-  <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello" />
-  <img src="https://img.shields.io/badge/Scrumwise-00B22D?style=for-the-badge" alt="Scrumwise" />
-  <img src="https://img.shields.io/badge/Diversion-4A154B?style=for-the-badge" alt="Diversion" />
-</p>
+[![My Skills](https://skillicons.dev/icons?i=blender,ps,figma)](https://skillicons.dev)
+<br/>
+![Maya](https://img.shields.io/badge/Autodesk%20Maya-37A5CC?style=for-the-badge&logo=autodesk&logoColor=white)
+![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
+![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white)
+![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white)
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-CB6051?style=for-the-badge&logo=davinciresolve&logoColor=white)
+
+**Web & Data**
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,mysql)](https://skillicons.dev)
+
+**Project Management**
+
+> Trello · Scrumwise · Diversion · Agile/Scrum
 
 ---
 
-### Featured Projects
-
+## 🎮 Featured Projects
 
 ---
 
-### GitHub Analytics
+### 🏆 Ale & Ambition — Unreal Engine 5
+> *Full production game · Year-long development · Team of [ 4 ]*
 
-<p align="center">
-  <a href="https://github.com/Tomascus">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tomascus&theme=dark&hide_border=false" width="48%" alt="GitHub Streak" />
-  </a>
-  <a href="https://github.com/Tomascus">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomascus&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="48%" alt="Top Languages" />
-  </a>
-</p>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</p>
+> **[ GIF ]**
+>
+> 🎬 [Watch Trailer](YOUR-YOUTUBE-LINK) &nbsp;|&nbsp; 📂 [Diversion Repo](YOUR-DIVERSION-LINK)
+
+A first-person medieval tavern management game built in Unreal Engine 5 (Blueprints). As AI developer and programmer, designed and implemented the full NPC task system using State Trees, Smart Objects and NavMesh, a delegate-driven event system with 21+ handcrafted daily events dynamically altering customer flow and day length, QTE-based serving minigames, and a stamina system with visual feedback. Built and overhauled all in-game UI using UMG including animated event screens, NPC patience indicators, and a modular comic book cutscene system with save-integrated replay prevention. Also authored intro and ending cinematics in Sequencer, architected a persistent save/load system, and implemented a narrative ending manager handling three distinct endings driven by reputation progression, combat outcomes, and world exploration.
+
+![Unreal Engine 5](https://img.shields.io/badge/Unreal%20Engine%205-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Blueprints](https://img.shields.io/badge/Blueprints-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Diversion](https://img.shields.io/badge/Diversion-4A154B?style=for-the-badge)
+![Scrumwise](https://img.shields.io/badge/Scrumwise-00B22D?style=for-the-badge)
+
+---
+
+### 🌑 Darkspire — Unity
+>**[ GIF ]**
+>
+> 🎬 [Watch Trailer](YOUR-LINK)
+
+A 3D dark fantasy dungeon crawler built in Unity. As team lead and combat programmer, developed the full combat system — stamina-gated attacks, combo-driven animation variety with directional mouse steering, accurate weapon hitboxes and hit registration, and invulnerability-framed dodge rolls. Built enemy AI with randomised area patrol, range-based detection and chase logic, attack state transitions, and attribute variation across speed, health, damage and detection range. Also implemented a modular dialogue system with branching player choices, a scriptable object inventory (potions, lore items acquired from enemies and chests), and an XP-based levelling system letting players increase damage, HP and stamina — encouraging exploration before the boss fight.
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tomascus/Darkspire)
+![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Scrumwise](https://img.shields.io/badge/Scrumwise-00B22D?style=for-the-badge)
+
+---
+
+### 🌊 Tidekeeper
+> **[ GIF ]**
+
+A 3D top-down eco-aware game built in Unity with C#. Collect rubbish around nature environment, guided by visual storytelling and progress bars, with a goal of cleaning all trash. Separate them into specific bins. After doing so steer a ship and clean oil spill on the water. Be the change !
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tomascus/Tidekeeper)
+![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+
+---
+
+### Tank Shot
+> **[ GIF ]**
+
+A C++/SFML multiplayer tank game built with a TCP client-server architecture supporting up to 4 players over LAN. Designed a server-authoritative model with a custom packet protocol, lobby system, round management, and synchronised pickups with server-side validation to prevent invalid client actions. Implemented client-side interpolation and state synchronisation for smooth remote player movement across all clients.
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tomascus/MDP-Tank-Game)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+---
+
+### 🎲 Console RPG
+> **[ GIF ]**
+
+A C# console dungeon RPG built as an Object-Oriented Design project, focused on implementing core software design patterns. Architected using Builder (DungeonBuilder/Director for procedural room construction), Visitor (separate attack and defence visitor logic per entity), and Decorator (modular item stat layering). Features a full combat system, enemy AI, weapon/item hierarchy, and player progression.
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tomascus/Console-RPG)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+
+---
+
+### ⚔️ Hidden Dungeon
+> **[ GIF ]**
+
+A 2D top-down dungeon crawler built in Unity with C#. Players navigate room-locked dungeons, defeating enemy ambushes to progress — rooms seal on entry until all enemies are cleared. Keys dropped by elite enemies unlock boss-guarded doors, with elites carrying adjusted stats for greater challenge. Features mouse-aim ranged combat, custom ShaderLab/HLSL visual effects, and pixel art assets.
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tomascus/Dungeon-Roller)
+![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white)
+
+---
+
+### 🐛 Bug's Life — C++ Simulation
+> **[ GIF ]**
+
+A **C++ simulation** modelling different bug behaviour variants on a board — bugs fight each other with unique logic, and the player can take control of a super bug. Focused on object-oriented design, polymorphism, and behavioural AI patterns.
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tomascus/Bugs-Life)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Tomascus&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tomascus&theme=tokyonight&hide_border=true" width="48%" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomascus&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="40%" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tomascus&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+</div>
+
+---
+
+## 🎧 A Bit More About Me
+
+> 🎮 **Favourite Games:** Dark Souls III · Path of Exile · Cyberpunk 2077
+> 
+> 📚 **Interested in:** Game feel & juice · Procedural systems · Cinematics & storytelling
+
+---
+
+<div align="center">
+
+*"Games are the only art form where the audience is also the performer."*
+
+<br/>
+
+**Open to game jams, indie collaborations, and graduate opportunities — feel free to reach out!**
+
+</div>
