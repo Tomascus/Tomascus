@@ -27,7 +27,7 @@
 
 ## 👾 About Me
 
-Hey! I'm **Tomas** — a **Games Development student** who lives at the intersection of code and creativity. I build the systems that make games *feel* good: responsive player controllers, physics-based mechanics, NPC behaviour, and UX, Cinematics that sell the world.
+Hey! I'm **Tomas**, **Games Development student** who lives at the intersection of code and creativity. I build the systems that make games *feel* good: responsive player controllers, physics-based mechanics, NPC behaviour, and UX, Cinematics that sell the world.
 
 What makes me a bit different — I'm both a **programmer and a technical artist**. I apply strong UX knowledge, make compelling animations, composite the cinematic, and ship the build. From gameplay logic to level design, I care about the full picture.
 
@@ -82,7 +82,7 @@ What makes me a bit different — I'm both a **programmer and a technical artist
 ---
 
 ### 🏆 Ale & Ambition — Unreal Engine 5
-> *Full production game · Year-long development · Team of [ 4 ]*
+> *Fantasy SIM · Year-long development · Team of 4*
 
 
 > <img width="800" height="448" alt="AleAmbitionGIF" src="https://github.com/user-attachments/assets/0f74a4e8-bec8-4a97-a4c1-8ecdc954c0ac" />
